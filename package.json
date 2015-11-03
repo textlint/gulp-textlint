@@ -16,7 +16,6 @@
   "dependencies": {
     "gulp-util": "^3.0.6",
     "textlint": "^4.7.5",
-    "textlint-rule-prh": "^2.1.1",
     "through2": "^2.0.0"
   }
 }
