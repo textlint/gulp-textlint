@@ -13,6 +13,9 @@
     "url": "https://github.com/nakajmg/gulp-textlint/issues"
   },
   "homepage": "https://github.com/nakajmg/gulp-textlint",
+  "scripts": {
+    "test": "cd example && npm test"
+  },
   "dependencies": {
     "gulp-util": "^3.0.6",
     "textlint": "^4.7.5",
