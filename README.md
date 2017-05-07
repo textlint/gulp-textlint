@@ -1,5 +1,7 @@
 # gulp-textlint [![Build Status](https://travis-ci.org/textlint/gulp-textlint.svg?branch=master)](https://travis-ci.org/textlint/gulp-textlint)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/textlint/gulp-textlint.svg)](https://greenkeeper.io/)
+
 gulp plugin for [textlint](https://github.com/azu/textlint).
 
 * Require [.textlintrc](https://github.com/azu/textlint#textlintrc)
