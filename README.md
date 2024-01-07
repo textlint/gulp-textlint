@@ -1,3 +1,6 @@
+> [!Important]
+> [Looking for new maintainers · Issue #12 · textlint/gulp-textlint](https://github.com/textlint/gulp-textlint/issues/12)
+
 # gulp-textlint
 
 gulp plugin for [textlint](https://github.com/textlint/textlint).
